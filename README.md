@@ -1,4 +1,4 @@
-# Fake News Detection Project
+# Fake News Prediction Project
 
 ## Overview
 This project aims to identify and classify fake news articles using machine learning techniques. By leveraging Natural Language Processing (NLP) and various machine learning algorithms, the project analyzes text data to distinguish between real and fake news.
